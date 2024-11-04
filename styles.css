@@ -10,7 +10,7 @@ body {
 }
 header {
     background: #35424a;
-    color: white;
+    color: violet;
     padding: 20px 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@ nav ul li {
 }
 
 nav a {
-    color: white;
+    color: violet;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #35424a;
-    color: white;
+    color: violet;
 }
 html{
     scroll-behavior: smooth;
